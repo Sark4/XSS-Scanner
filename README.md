@@ -21,7 +21,7 @@ If the tool detects at least one vulnerability, it will return that the website 
 
 Clone the repository:
 ```
-git clone https://github.com/MariaGarber/XSS-Scanner.git
+git clone https://github.com/Sark4/XSS-Scanner.git
 ```
 Enter the clonned folder:
 ```
